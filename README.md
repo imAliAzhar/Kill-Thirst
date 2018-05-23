@@ -1,7 +1,8 @@
-#Kill Thirst
+Kill Thirst
 ---
 
 This was my first ever programming project. I remember how excited I was after competing it!
+
 ![gameplay gif](https://github.com/imAliAzhar/Kill-Thirst/blob/master/gameplay.gif)
 
 As the repo description says, KillThirst is a whack-a-mole inspired first person shooting game. It features multiple stages in which the cops creep out onto us from hidden places and we have to take them out before they take us out.  
